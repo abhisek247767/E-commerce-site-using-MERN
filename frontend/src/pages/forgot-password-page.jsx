@@ -1,4 +1,3 @@
-'use client'
 
 import React, { useState } from 'react'
 import { Mail, Lock, Loader, ArrowLeft, Eye, EyeOff } from "lucide-react"
